@@ -1,4 +1,4 @@
-![I am Munshi-Reza]([https://github.com/Munshi-Reza/Munshi-Reza/blob/main/code.png](https://github.com/harun181/harun181/blob/main/code.png?raw=true))
+![I am Munshi-Reza](https://github.com/harun181/harun181/raw/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Rezaul Munshi</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
